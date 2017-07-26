@@ -3,17 +3,20 @@
 Stack: Spring Boot, JPA, REST, Docker, MySQL (Dockerised)
 
 ## How to run
+
 Install:
  * Docker
  * clone this repo into a folder
 
 To Run:
+
     $ cd /your/repo/clone/path/
-	$ service.sh docker_build
-	$ service.sh docker_run
+    $ service.sh docker_build
+    $ service.sh docker_run
 	
 To Test (new terminal):
-	$ service.sh docker_smoke
+
+    $ service.sh docker_smoke
 	
 ## Import a different source
 
